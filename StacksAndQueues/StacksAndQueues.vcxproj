@@ -19,9 +19,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\CircularQueue.c" />
-    <ClInclude Include="..\..\Queue.c" />
-    <ClInclude Include="..\..\Stack.c" />
+    <ClCompile Include="CircularQueue.cpp" />
+    <ClCompile Include="Queue.cpp" />
+    <ClCompile Include="Stack.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

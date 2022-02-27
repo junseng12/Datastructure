@@ -15,14 +15,14 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\Queue.c">
+    <ClCompile Include="CircularQueue.cpp">
       <Filter>소스 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\Stack.c">
+    </ClCompile>
+    <ClCompile Include="Stack.cpp">
       <Filter>소스 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\CircularQueue.c">
+    </ClCompile>
+    <ClCompile Include="Queue.cpp">
       <Filter>소스 파일</Filter>
-    </ClInclude>
+    </ClCompile>
   </ItemGroup>
 </Project>
